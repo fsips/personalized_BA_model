@@ -14,7 +14,7 @@
 %  Preparations: add all local folders to the path
 %  ------------------------------------------------------------------------
 
-% Note: run this file from the "BA_model_package" folder
+% Note: run this file from the "Simulation files" folder
 addpath(genpath(pwd)) 
 
 %% ------------------------------------------------------------------------
